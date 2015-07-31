@@ -13,7 +13,8 @@ Allows users to take a photo on their phone camera and upload it directly onto t
 - Use IMGUR to store and access photos
 
 
-#Team Members: Carissa Blossom (Team Lead), Le Tran (Profile & Navigation), Ellis Marte (Camera & Photo Upload), Staunton Sample (Photo Results Page)
+#Team Members: 
+Carissa Blossom (Team Lead), Le Tran (Profile & Navigation), Ellis Marte (Camera & Photo Upload), Staunton Sample (Photo Results Page)
 
 #To Use: 
 -Backend (via Rails) is deployed to Heroku
